@@ -1,0 +1,6 @@
+c:\users\gkam4141\documents\visual studio 2013\Projects\NetTConverter\NetTConverter\bin\Debug\NetTConverter.pdb
+c:\users\gkam4141\documents\visual studio 2013\Projects\NetTConverter\NetTConverter\obj\Debug\NetTConverter.csprojResolveAssemblyReference.cache
+c:\users\gkam4141\documents\visual studio 2013\Projects\NetTConverter\NetTConverter\obj\Debug\NetTConverter.pdb
+c:\users\gkam4141\documents\visual studio 2013\Projects\NetTConverter\NetTConverter\bin\Debug\NetTConverter.dll.config
+c:\users\gkam4141\documents\visual studio 2013\Projects\NetTConverter\NetTConverter\bin\Debug\NetTConverter.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\NetTConverter\NetTConverter\obj\Debug\NetTConverter.dll
